@@ -2,6 +2,8 @@
 
 Owner : Abhishek verma
 
+### git isnt alllowing to a]upoad file, so i habe kep simple color theme and pallete in pbix file, howeever, all other data is same as you can see
+
 Project Overview
 This project involves developing an interactive and insightful Power BI dashboard to analyze credit card financial data. The dashboard is designed to provide key insights into customer spending patterns, transaction trends, and overall financial performance, enabling better decision-making for financial analysts and stakeholders.
 
